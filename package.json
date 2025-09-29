@@ -1,0 +1,50 @@
+{
+  "name": "tx3funding-futures",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/third-parties": "^14.2.3",
+    "@vercel/analytics": "^1.4.1",
+    "@vercel/speed-insights": "^1.0.10",
+    "amazon-cognito-identity-js": "^6.3.12",
+    "dotenv": "^16.4.5",
+    "firebase": "^11.0.2",
+    "framer-motion": "^11.0.2",
+    "i18next": "^23.7.18",
+    "i18next-resources-to-backend": "^1.2.0",
+    "next": "^14.2.3",
+    "next-i18n-router": "^5.2.0",
+    "next-i18next": "^15.2.0",
+    "next-intl": "^3.4.5",
+    "react": "^18.2.0",
+    "react-country-flag": "^3.1.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^14.0.1",
+    "react-icons": "^5.0.1",
+    "react-markdown": "^9.0.1",
+    "react-scroll": "^1.9.0",
+    "react-select": "^5.8.3",
+    "react-select-country-list": "^2.2.3",
+    "react-simple-typewriter": "^5.0.1",
+    "react-slick": "^0.30.2",
+    "rehype-raw": "^7.0.0",
+    "sharp": "^0.33.5",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^11.0.5",
+    "use-count-up": "^3.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "^13.5.6",
+    "i18nexus-cli": "^3.3.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
