@@ -26,7 +26,7 @@ function LoadingRedirection() {
         // Show loading for a brief moment, then redirect
         const timer = setTimeout(() => {
             // Ensure pathname starts with / and handle edge cases
-            const targetUrl = `https://funding.tx3markets.com/futures`
+            const targetUrl = `https://funding.tx3markets.com`
             
             // Use window.location.replace for better UX (no back button history)
             window.location.replace(targetUrl)
